@@ -1,23 +1,24 @@
 # MakerHealth Community Guidelines
+We believes that everyone can create health technology. To support the global network of health makers we built MakerHealth Create as a platform to share the DIY health technology projects with the community. We expect that all makers uploading projects will follow these guidelines to help foster a collaborative community of health makers.
 
-## SECTION 1
+## POSTING PROJECTS
 
-### SUBSECTION 1.1
-With Text lorem bla
+### HEALTH RELATED
+Projects uploaded to MakerHealth Create must have a reasonable health application. 
 
-### SUBSECTION 1.2
-With Text lorem bla
+### OWNERSHIP
+Only post projects you have created or have permission from the creator to post. 
 
-### SUBSECTION 1.3
-With Text lorem bla
+### SHARE TO TEACH
+Include enough details in your posting to enable others to recreate the project.
 
-## SECTION 2
+### EXTERNAL LINKS
+Include links for digital files, code, and supporting documents for the project background (i.e.: github, hackster.io, thingiverse, pubmed). Projects that only include links to external sites with documentation will be set to private until further fabrication and experimentation details are included.
 
-### SUBSECTION 2.1
-With Text lorem bla
+## PROJECT REVIEW
 
-### SUBSECTION 2.2
-With Text lorem bla
+### REVIEW
+Projects are not validated by the MakerHealth team. Only post projeccts that you believe impact health. 
 
-### SUBSECTION 2.3
-With Text lorem bla
+### MAKERHEALTH COMMUNITY
+The MakerHealth team reviews the projects for fit to the community, but not clinical efficacy. 
